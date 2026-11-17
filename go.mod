@@ -1,4 +1,4 @@
-module github.com/MarkBro7/postaja/vreme
+module github.com/MarkBro7/postaja
 
 go 1.26.8
 
