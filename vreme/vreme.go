@@ -5,6 +5,7 @@ package vreme
 
 import "fmt"
 
+// Postaja represent weather stations with name, place and slice of measurments
 type Postaja struct {
 	ime     string
 	kraj    string
