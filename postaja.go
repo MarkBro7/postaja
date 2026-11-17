@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"github.com/MarkBro7/postaja/vreme" //to rabis zamenjat s tistim iz githuba
 
+	"github.com/MarkBro7/postaja/vreme"
 	"github.com/urfave/cli/v3"
 )
 
